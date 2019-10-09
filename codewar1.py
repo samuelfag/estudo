@@ -1,3 +1,6 @@
+'''teste de commit'''
+
+
 def duplicate_count(text):
     counter = dict()
     dict_repeats = dict()
